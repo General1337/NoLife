@@ -3,16 +3,38 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceGame", "SpaceGame.csproj", "{DEA83108-9815-41AF-8149-3D568E6E79E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileEngine", "..\TileEngine\TileEngine.csproj", "{8AA805C7-2EBE-4D80-BDB0-9A4FB461C0ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA83108-9815-41AF-8149-3D568E6E79E4}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DEA83108-9815-41AF-8149-3D568E6E79E4}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{DEA83108-9815-41AF-8149-3D568E6E79E4}.Debug|Mixed Platforms.Build.0 = Debug|x86
 		{DEA83108-9815-41AF-8149-3D568E6E79E4}.Debug|x86.ActiveCfg = Debug|x86
 		{DEA83108-9815-41AF-8149-3D568E6E79E4}.Debug|x86.Build.0 = Debug|x86
+		{DEA83108-9815-41AF-8149-3D568E6E79E4}.Release|Any CPU.ActiveCfg = Release|x86
+		{DEA83108-9815-41AF-8149-3D568E6E79E4}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{DEA83108-9815-41AF-8149-3D568E6E79E4}.Release|Mixed Platforms.Build.0 = Release|x86
 		{DEA83108-9815-41AF-8149-3D568E6E79E4}.Release|x86.ActiveCfg = Release|x86
 		{DEA83108-9815-41AF-8149-3D568E6E79E4}.Release|x86.Build.0 = Release|x86
+		{8AA805C7-2EBE-4D80-BDB0-9A4FB461C0ED}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8AA805C7-2EBE-4D80-BDB0-9A4FB461C0ED}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8AA805C7-2EBE-4D80-BDB0-9A4FB461C0ED}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{8AA805C7-2EBE-4D80-BDB0-9A4FB461C0ED}.Debug|x86.ActiveCfg = Debug|x86
+		{8AA805C7-2EBE-4D80-BDB0-9A4FB461C0ED}.Debug|x86.Build.0 = Debug|x86
+		{8AA805C7-2EBE-4D80-BDB0-9A4FB461C0ED}.Release|Any CPU.ActiveCfg = Release|x86
+		{8AA805C7-2EBE-4D80-BDB0-9A4FB461C0ED}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8AA805C7-2EBE-4D80-BDB0-9A4FB461C0ED}.Release|Mixed Platforms.Build.0 = Release|x86
+		{8AA805C7-2EBE-4D80-BDB0-9A4FB461C0ED}.Release|x86.ActiveCfg = Release|x86
+		{8AA805C7-2EBE-4D80-BDB0-9A4FB461C0ED}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

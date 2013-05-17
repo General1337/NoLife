@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Serjh/Documents/GitHub/NoLife/SpaceGame/Content/tiles/hull.png</SourceFile>
+  <DestFile>C:/Users/Serjh/Documents/GitHub/NoLife/SpaceGame/Content/tiles/hull.xnb</DestFile>
+  <DestTime>2013-05-09T17:56:22.5890063-07:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <Processor>TextureProcessor</Processor>
+  <Dependancies />
+  <BuildAsset />
+</PipelineBuildEvent>
